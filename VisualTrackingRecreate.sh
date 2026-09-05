@@ -39,6 +39,4 @@ convert "$NOISY_TMP" -background white -rotate 0.3 "$OUTPUT"
 # Clean up temporary files
 rm -f "$WEBP_TMP" "$JPG_TMP" "$RESIZED_TMP" "$NOISY_TMP"
 
-exiftool -all= -overwrite_original "$OUTPUT"
-
 echo "Done! Processed file saved as: $OUTPUT"
