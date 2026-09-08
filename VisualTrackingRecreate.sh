@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+#Installation
+sudo apt install imagemagick webp -y
+
 set -euo pipefail
 
 INPUT="pic.png"
