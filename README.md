@@ -1,7 +1,5 @@
 # ImageAnonymizer
 
-<img width="682" height="682" alt="lucid-origin_Create_a_high-tech_sleek_3D_app_icon_for_privacy_software_set_against_a_deep_obs-0" src="https://github.com/user-attachments/assets/527a01c4-4294-42c1-a328-46242fc35d2f" />
-
 Image privacy toolkit to remove metadata from images and make unwanted automated visual tracking more difficult.
 
 !Important:
